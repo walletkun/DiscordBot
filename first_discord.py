@@ -96,5 +96,5 @@ async def get_help(ctx):
 
 
 
-bot.run("MTE2NDk4NzM2MDg0MTMwMjA2Nw.GdS_pt.TFckal_CFmnK8wq4_w1JluWL8CSYSxGr91A-Ro")
+bot.run("BotToken")
 
